@@ -12,6 +12,7 @@
 		460440682BDD0B5D0000A13A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 460440672BDD0B5D0000A13A /* Assets.xcassets */; };
 		4604406B2BDD0B5D0000A13A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4604406A2BDD0B5D0000A13A /* Preview Assets.xcassets */; };
 		460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460440722BDD0C2D0000A13A /* TextBootCamp.swift */; };
+		460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460440742BDD0FAD0000A13A /* ShapesBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		460440672BDD0B5D0000A13A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4604406A2BDD0B5D0000A13A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		460440722BDD0C2D0000A13A /* TextBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextBootCamp.swift; sourceTree = "<group>"; };
+		460440742BDD0FAD0000A13A /* ShapesBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapesBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 			isa = PBXGroup;
 			children = (
 				460440722BDD0C2D0000A13A /* TextBootCamp.swift */,
+				460440742BDD0FAD0000A13A /* ShapesBootCamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */,
 				460440662BDD0B5B0000A13A /* ContentView.swift in Sources */,
 				460440642BDD0B5B0000A13A /* SwiftUIThinkingBootcampApp.swift in Sources */,
 				460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */,
