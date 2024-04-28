@@ -16,6 +16,7 @@
 		460440772BDE38AD0000A13A /* ColorBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460440762BDE38AD0000A13A /* ColorBootCamp.swift */; };
 		460440792BDE3D160000A13A /* GradientsBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 460440782BDE3D160000A13A /* GradientsBootCamp.swift */; };
 		4604407B2BDE47330000A13A /* IconBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4604407A2BDE47330000A13A /* IconBootCamp.swift */; };
+		4604407D2BDE4BDB0000A13A /* ImageBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4604407C2BDE4BDB0000A13A /* ImageBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		460440762BDE38AD0000A13A /* ColorBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorBootCamp.swift; sourceTree = "<group>"; };
 		460440782BDE3D160000A13A /* GradientsBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientsBootCamp.swift; sourceTree = "<group>"; };
 		4604407A2BDE47330000A13A /* IconBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IconBootCamp.swift; sourceTree = "<group>"; };
+		4604407C2BDE4BDB0000A13A /* ImageBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				460440762BDE38AD0000A13A /* ColorBootCamp.swift */,
 				460440782BDE3D160000A13A /* GradientsBootCamp.swift */,
 				4604407A2BDE47330000A13A /* IconBootCamp.swift */,
+				4604407C2BDE4BDB0000A13A /* ImageBootCamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 				460440772BDE38AD0000A13A /* ColorBootCamp.swift in Sources */,
 				460440642BDD0B5B0000A13A /* SwiftUIThinkingBootcampApp.swift in Sources */,
 				460440792BDE3D160000A13A /* GradientsBootCamp.swift in Sources */,
+				4604407D2BDE4BDB0000A13A /* ImageBootCamp.swift in Sources */,
 				460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
