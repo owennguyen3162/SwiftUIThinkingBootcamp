@@ -11,8 +11,8 @@ struct ColorBootCamp: View {
     var body: some View {
         RoundedRectangle(cornerRadius: 20.0)
             .fill(
-//                Color(UIColor.lightGray)
-//                Color.green
+                //                Color(UIColor.lightGray)
+                //                Color.green
                 Color("MyCustomColor")
             )
             .shadow(color: .red, radius: 2, x: 20, y: 20)
