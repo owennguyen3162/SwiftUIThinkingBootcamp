@@ -5,6 +5,7 @@
 //  Created by Nguyen Anh Tuan on 12/5/24.
 //
 
+// How to use inits and enums in SwiftUI
 import SwiftUI
 
 struct InitializerBootCamp: View {
