@@ -12,16 +12,16 @@ struct IconBootCamp: View {
         Image(systemName: "square.grid.3x1.folder.fill.badge.plus")
             .renderingMode(.original)
             .font(.largeTitle)
-//            .resizable()
-//            .font(.largeTitle)
-//            .font(.system(size: 3))
-//            .aspectRatio(contentMode: .fit)
-//            .scaledToFit()
-//            .foregroundColor(.red)
-//            .frame(width: 300, height: 300, alignment: .center)
-//            .border(Color.green, width: 1)
-//            .clipped() use when used scaledToFill
-            
+        //            .resizable()
+        //            .font(.largeTitle)
+        //            .font(.system(size: 3))
+        //            .aspectRatio(contentMode: .fit)
+        //            .scaledToFit()
+        //            .foregroundColor(.red)
+        //            .frame(width: 300, height: 300, alignment: .center)
+        //            .border(Color.green, width: 1)
+        //            .clipped() use when used scaledToFill
+        
     }
 }
 
