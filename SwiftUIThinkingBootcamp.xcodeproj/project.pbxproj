@@ -23,6 +23,7 @@
 		46915AC22BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */; };
 		46915AC42BF0FC6600396AC5 /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */; };
 		46915AC62BF1076E00396AC5 /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */; };
+		46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC72BF10D2B00396AC5 /* ForEachBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootCamp.swift; sourceTree = "<group>"; };
 		46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
 		46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
+		46915AC72BF10D2B00396AC5 /* ForEachBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -107,6 +109,7 @@
 				46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */,
 				46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */,
 				46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */,
+				46915AC72BF10D2B00396AC5 /* ForEachBootCamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */,
+				46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */,
 				460440662BDD0B5B0000A13A /* ContentView.swift in Sources */,
 				46915AC22BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift in Sources */,
 				4604407B2BDE47330000A13A /* IconBootCamp.swift in Sources */,
