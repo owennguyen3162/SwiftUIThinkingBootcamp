@@ -22,6 +22,7 @@
 		46915AC02BEF75B300396AC5 /* StacksBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915ABF2BEF75B300396AC5 /* StacksBootCamp.swift */; };
 		46915AC22BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */; };
 		46915AC42BF0FC6600396AC5 /* SpacerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */; };
+		46915AC62BF1076E00396AC5 /* InitializerBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -41,6 +42,7 @@
 		46915ABF2BEF75B300396AC5 /* StacksBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootCamp.swift; sourceTree = "<group>"; };
 		46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingAndSpacerBootCamp.swift; sourceTree = "<group>"; };
 		46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootCamp.swift; sourceTree = "<group>"; };
+		46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootCamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				46915ABF2BEF75B300396AC5 /* StacksBootCamp.swift */,
 				46915AC12BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift */,
 				46915AC32BF0FC6600396AC5 /* SpacerBootCamp.swift */,
+				46915AC52BF1076E00396AC5 /* InitializerBootCamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				46915AC42BF0FC6600396AC5 /* SpacerBootCamp.swift in Sources */,
 				4604407F2BDE566F0000A13A /* FramesBootCamp.swift in Sources */,
 				460440792BDE3D160000A13A /* GradientsBootCamp.swift in Sources */,
+				46915AC62BF1076E00396AC5 /* InitializerBootCamp.swift in Sources */,
 				4604407D2BDE4BDB0000A13A /* ImageBootCamp.swift in Sources */,
 				46915AC02BEF75B300396AC5 /* StacksBootCamp.swift in Sources */,
 				460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */,
