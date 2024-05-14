@@ -63,11 +63,6 @@ struct GridBootCamp: View {
                             }
                         }
                     }
-                    
-                    
-                   
-                    
-                    
                 })
         }
     }
