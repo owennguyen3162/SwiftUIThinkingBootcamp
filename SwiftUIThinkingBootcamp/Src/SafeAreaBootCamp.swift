@@ -5,6 +5,8 @@
 //  Created by Nguyen Anh Tuan on 12/5/24.
 //
 
+//How to use and ignore the Safe Area in SwiftUI
+
 import SwiftUI
 
 struct SafeAreaBootCamp: View {
