@@ -28,6 +28,7 @@
 		46915ACC2BF1194000396AC5 /* GridBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915ACB2BF1194000396AC5 /* GridBootCamp.swift */; };
 		46915ACE2BF12A0600396AC5 /* SafeAreaBootCamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915ACD2BF12A0600396AC5 /* SafeAreaBootCamp.swift */; };
 		46915AD02BF3C33E00396AC5 /* ButtonsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915ACF2BF3C33E00396AC5 /* ButtonsBootcamp.swift */; };
+		46915AD22BF3CB1A00396AC5 /* StateBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46915AD12BF3CB1A00396AC5 /* StateBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -53,6 +54,7 @@
 		46915ACB2BF1194000396AC5 /* GridBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridBootCamp.swift; sourceTree = "<group>"; };
 		46915ACD2BF12A0600396AC5 /* SafeAreaBootCamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafeAreaBootCamp.swift; sourceTree = "<group>"; };
 		46915ACF2BF3C33E00396AC5 /* ButtonsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBootcamp.swift; sourceTree = "<group>"; };
+		46915AD12BF3CB1A00396AC5 /* StateBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -122,6 +124,7 @@
 				46915ACB2BF1194000396AC5 /* GridBootCamp.swift */,
 				46915ACD2BF12A0600396AC5 /* SafeAreaBootCamp.swift */,
 				46915ACF2BF3C33E00396AC5 /* ButtonsBootcamp.swift */,
+				46915AD12BF3CB1A00396AC5 /* StateBootcamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -196,6 +199,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				46915AD22BF3CB1A00396AC5 /* StateBootcamp.swift in Sources */,
 				460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */,
 				46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */,
 				46915ACA2BF1110800396AC5 /* ScrollViewBootCamp.swift in Sources */,
