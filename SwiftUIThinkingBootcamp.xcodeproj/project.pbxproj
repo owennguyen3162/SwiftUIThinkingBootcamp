@@ -39,6 +39,7 @@
 		46D60AA72C14799500B19A83 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */; };
 		46D60AA92C14AB1A00B19A83 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */; };
 		46D60AAB2C14C08700B19A83 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AAA2C14C08700B19A83 /* AlertBootcamp.swift */; };
+		46D60AAD2C14CC5500B19A83 /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -75,6 +76,7 @@
 		46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		46D60AAA2C14C08700B19A83 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
+		46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -155,6 +157,7 @@
 				46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */,
 				46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */,
 				46D60AAA2C14C08700B19A83 /* AlertBootcamp.swift */,
+				46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -256,6 +259,7 @@
 				46D60A9D2C143C2D00B19A83 /* BindingBootcamp.swift in Sources */,
 				4604407D2BDE4BDB0000A13A /* ImageBootCamp.swift in Sources */,
 				46915AC02BEF75B300396AC5 /* StacksBootCamp.swift in Sources */,
+				46D60AAD2C14CC5500B19A83 /* ActionSheetBootcamp.swift in Sources */,
 				460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */,
 				460440832BDE5B580000A13A /* BackgroundsAndOverlaysBootCamp.swift in Sources */,
 				46D60A9F2C14429A00B19A83 /* AnimationBootcamp.swift in Sources */,
