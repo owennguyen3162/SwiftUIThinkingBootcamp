@@ -3,7 +3,7 @@
 //  SwiftUIThinkingBootcamp
 //
 //  Created by Nguyen Anh Tuan on 8/6/24.
-// How to use Transition in SwiftUI
+// How to use Transition in SwiftUIw
 
 import SwiftUI
 
