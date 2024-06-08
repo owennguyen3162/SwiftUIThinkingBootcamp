@@ -35,6 +35,7 @@
 		46D60A9F2C14429A00B19A83 /* AnimationBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60A9E2C14429A00B19A83 /* AnimationBootcamp.swift */; };
 		46D60AA12C14525800B19A83 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */; };
 		46D60AA32C1458A200B19A83 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */; };
+		46D60AA52C145F8B00B19A83 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -67,6 +68,7 @@
 		46D60A9E2C14429A00B19A83 /* AnimationBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
+		46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +145,7 @@
 				46D60A9E2C14429A00B19A83 /* AnimationBootcamp.swift */,
 				46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */,
 				46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */,
+				46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -224,6 +227,7 @@
 				46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */,
 				46915ACA2BF1110800396AC5 /* ScrollViewBootCamp.swift in Sources */,
 				460440662BDD0B5B0000A13A /* ContentView.swift in Sources */,
+				46D60AA52C145F8B00B19A83 /* PopoverBootcamp.swift in Sources */,
 				46915AC22BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift in Sources */,
 				4604407B2BDE47330000A13A /* IconBootCamp.swift in Sources */,
 				460440772BDE38AD0000A13A /* ColorBootCamp.swift in Sources */,
@@ -384,6 +388,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -413,6 +418,7 @@
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
