@@ -37,6 +37,7 @@
 		46D60AA32C1458A200B19A83 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */; };
 		46D60AA52C145F8B00B19A83 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */; };
 		46D60AA72C14799500B19A83 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */; };
+		46D60AA92C14AB1A00B19A83 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -71,6 +72,7 @@
 		46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
+		46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,6 +151,7 @@
 				46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */,
 				46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */,
 				46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */,
+				46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */,
 				46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */,
 				46915ACA2BF1110800396AC5 /* ScrollViewBootCamp.swift in Sources */,
+				46D60AA92C14AB1A00B19A83 /* ListBootcamp.swift in Sources */,
 				460440662BDD0B5B0000A13A /* ContentView.swift in Sources */,
 				46D60AA52C145F8B00B19A83 /* PopoverBootcamp.swift in Sources */,
 				46915AC22BEF7B9100396AC5 /* PaddingAndSpacerBootCamp.swift in Sources */,
