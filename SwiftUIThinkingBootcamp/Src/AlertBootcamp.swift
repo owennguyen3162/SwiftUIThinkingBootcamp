@@ -3,7 +3,7 @@
 //  SwiftUIThinkingBootcamp
 //
 //  Created by Nguyen Anh Tuan on 8/6/24.
-//
+// How to show Alerts in SwiftUI app
 
 import SwiftUI
 
