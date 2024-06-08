@@ -3,7 +3,7 @@
 //  SwiftUIThinkingBootcamp
 //
 //  Created by Nguyen Anh Tuan on 8/6/24.
-//
+//  Adding Animations in SwiftUI
 
 import SwiftUI
 
