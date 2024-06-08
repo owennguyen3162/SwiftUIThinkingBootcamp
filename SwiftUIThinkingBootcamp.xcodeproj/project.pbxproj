@@ -36,6 +36,7 @@
 		46D60AA12C14525800B19A83 /* TransitionBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */; };
 		46D60AA32C1458A200B19A83 /* SheetsBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */; };
 		46D60AA52C145F8B00B19A83 /* PopoverBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */; };
+		46D60AA72C14799500B19A83 /* NavigationViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -69,6 +70,7 @@
 		46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransitionBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SheetsBootcamp.swift; sourceTree = "<group>"; };
 		46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopoverBootcamp.swift; sourceTree = "<group>"; };
+		46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationViewBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +148,7 @@
 				46D60AA02C14525800B19A83 /* TransitionBootcamp.swift */,
 				46D60AA22C1458A200B19A83 /* SheetsBootcamp.swift */,
 				46D60AA42C145F8B00B19A83 /* PopoverBootcamp.swift */,
+				46D60AA62C14799500B19A83 /* NavigationViewBootcamp.swift */,
 			);
 			path = Src;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 				460440642BDD0B5B0000A13A /* SwiftUIThinkingBootcampApp.swift in Sources */,
 				46915AD42BF3D21800396AC5 /* ExtractFunctionsBootcamp.swift in Sources */,
 				46915AD02BF3C33E00396AC5 /* ButtonsBootcamp.swift in Sources */,
+				46D60AA72C14799500B19A83 /* NavigationViewBootcamp.swift in Sources */,
 				46915ACE2BF12A0600396AC5 /* SafeAreaBootCamp.swift in Sources */,
 				46915AC42BF0FC6600396AC5 /* SpacerBootCamp.swift in Sources */,
 				46915ACC2BF1194000396AC5 /* GridBootCamp.swift in Sources */,
