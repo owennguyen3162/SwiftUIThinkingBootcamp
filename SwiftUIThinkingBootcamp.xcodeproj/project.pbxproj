@@ -40,6 +40,8 @@
 		46D60AA92C14AB1A00B19A83 /* ListBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */; };
 		46D60AAB2C14C08700B19A83 /* AlertBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AAA2C14C08700B19A83 /* AlertBootcamp.swift */; };
 		46D60AAD2C14CC5500B19A83 /* ActionSheetBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */; };
+		46D60AB02C14D72C00B19A83 /* InstagramCloneUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AAF2C14D72C00B19A83 /* InstagramCloneUI.swift */; };
+		46D60AB22C14D98700B19A83 /* storyItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 46D60AB12C14D98700B19A83 /* storyItem.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -77,6 +79,8 @@
 		46D60AA82C14AB1A00B19A83 /* ListBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListBootcamp.swift; sourceTree = "<group>"; };
 		46D60AAA2C14C08700B19A83 /* AlertBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlertBootcamp.swift; sourceTree = "<group>"; };
 		46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionSheetBootcamp.swift; sourceTree = "<group>"; };
+		46D60AAF2C14D72C00B19A83 /* InstagramCloneUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramCloneUI.swift; sourceTree = "<group>"; };
+		46D60AB12C14D98700B19A83 /* storyItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = storyItem.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +113,7 @@
 		460440622BDD0B5B0000A13A /* SwiftUIThinkingBootcamp */ = {
 			isa = PBXGroup;
 			children = (
+				46D60AAE2C14D70600B19A83 /* instagramCloneUI */,
 				460440712BDD0C130000A13A /* Src */,
 				460440632BDD0B5B0000A13A /* SwiftUIThinkingBootcampApp.swift */,
 				460440652BDD0B5B0000A13A /* ContentView.swift */,
@@ -160,6 +165,15 @@
 				46D60AAC2C14CC5500B19A83 /* ActionSheetBootcamp.swift */,
 			);
 			path = Src;
+			sourceTree = "<group>";
+		};
+		46D60AAE2C14D70600B19A83 /* instagramCloneUI */ = {
+			isa = PBXGroup;
+			children = (
+				46D60AAF2C14D72C00B19A83 /* InstagramCloneUI.swift */,
+				46D60AB12C14D98700B19A83 /* storyItem.swift */,
+			);
+			path = instagramCloneUI;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -238,6 +252,7 @@
 				46D60AAB2C14C08700B19A83 /* AlertBootcamp.swift in Sources */,
 				460440752BDD0FAD0000A13A /* ShapesBootCamp.swift in Sources */,
 				46915AC82BF10D2B00396AC5 /* ForEachBootCamp.swift in Sources */,
+				46D60AB02C14D72C00B19A83 /* InstagramCloneUI.swift in Sources */,
 				46915ACA2BF1110800396AC5 /* ScrollViewBootCamp.swift in Sources */,
 				46D60AA92C14AB1A00B19A83 /* ListBootcamp.swift in Sources */,
 				460440662BDD0B5B0000A13A /* ContentView.swift in Sources */,
@@ -258,6 +273,7 @@
 				46915AC62BF1076E00396AC5 /* InitializerBootCamp.swift in Sources */,
 				46D60A9D2C143C2D00B19A83 /* BindingBootcamp.swift in Sources */,
 				4604407D2BDE4BDB0000A13A /* ImageBootCamp.swift in Sources */,
+				46D60AB22C14D98700B19A83 /* storyItem.swift in Sources */,
 				46915AC02BEF75B300396AC5 /* StacksBootCamp.swift in Sources */,
 				46D60AAD2C14CC5500B19A83 /* ActionSheetBootcamp.swift in Sources */,
 				460440732BDD0C2D0000A13A /* TextBootCamp.swift in Sources */,
